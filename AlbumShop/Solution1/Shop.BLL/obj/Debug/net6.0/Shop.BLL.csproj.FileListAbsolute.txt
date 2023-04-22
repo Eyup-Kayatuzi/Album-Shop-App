@@ -1,0 +1,17 @@
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\bin\Debug\net6.0\Shop.BLL.deps.json
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\bin\Debug\net6.0\Shop.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\bin\Debug\net6.0\Shop.BLL.pdb
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\bin\Debug\net6.0\Shop.DAL.dll
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\bin\Debug\net6.0\Shop.Model.dll
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\bin\Debug\net6.0\Shop.DAL.pdb
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\bin\Debug\net6.0\Shop.Model.pdb
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\obj\Debug\net6.0\Shop.BLL.csproj.AssemblyReference.cache
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\obj\Debug\net6.0\Shop.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\obj\Debug\net6.0\Shop.BLL.AssemblyInfoInputs.cache
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\obj\Debug\net6.0\Shop.BLL.AssemblyInfo.cs
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\obj\Debug\net6.0\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\obj\Debug\net6.0\Shop.BLL.csproj.CopyComplete
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\obj\Debug\net6.0\Shop.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\obj\Debug\net6.0\refint\Shop.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\obj\Debug\net6.0\Shop.BLL.pdb
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Shop.BLL\obj\Debug\net6.0\ref\Shop.BLL.dll

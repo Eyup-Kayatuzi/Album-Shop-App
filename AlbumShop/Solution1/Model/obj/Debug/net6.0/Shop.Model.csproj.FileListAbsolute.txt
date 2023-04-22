@@ -1,0 +1,12 @@
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Model\bin\Debug\net6.0\Shop.Model.deps.json
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Model\bin\Debug\net6.0\Shop.Model.dll
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Model\bin\Debug\net6.0\Shop.Model.pdb
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Model\obj\Debug\net6.0\Shop.Model.csproj.AssemblyReference.cache
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Model\obj\Debug\net6.0\Shop.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Model\obj\Debug\net6.0\Shop.Model.AssemblyInfoInputs.cache
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Model\obj\Debug\net6.0\Shop.Model.AssemblyInfo.cs
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Model\obj\Debug\net6.0\Shop.Model.csproj.CoreCompileInputs.cache
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Model\obj\Debug\net6.0\Shop.Model.dll
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Model\obj\Debug\net6.0\refint\Shop.Model.dll
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Model\obj\Debug\net6.0\Shop.Model.pdb
+C:\Users\eypky\OneDrive\Desktop\Maraton\Solution1\Model\obj\Debug\net6.0\ref\Shop.Model.dll
